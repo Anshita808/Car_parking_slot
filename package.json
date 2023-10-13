@@ -1,0 +1,27 @@
+{
+  "name": "parking_car_slot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdShahbazUddin1/Parking_Car_Slot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mdShahbazUddin1/Parking_Car_Slot/issues"
+  },
+  "homepage": "https://github.com/mdShahbazUddin1/Parking_Car_Slot#readme",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "express-rate-limit": "^7.1.1",
+    "mongoose": "^7.6.1"
+  }
+}
